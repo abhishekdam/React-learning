@@ -42,4 +42,6 @@ h2 {
 
 .book h3 {
   letter-spacing: 0.11rem;
+  font-size: 0.75rem;
+  color: blueviolet;
 }
